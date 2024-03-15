@@ -1,7 +1,25 @@
-![](https://github-profile-trophy.vercel.app/?username=dukex)
+## Github Stats
 
-| <a href="https://github.com/dukex"><img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=dukex&include_all_commits=true&show_icons=true&theme=buefy&hide_border=true" /></a> |  <a href="https://github.com/dukex"><img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukex&layout=compact&show_icons=true&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+Whaaat?
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dukex&theme=monokai">
+<p />
+
+<a href="https://github.com/dukex">
+<img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dukex&theme=monokai">
+</a>
+<a href="https://github.com/dukex">
+<img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dukex&theme=monokai&utcOffset=-3">
+</a>
+
+<p />
+
+<a href="https://github.com/dukex">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dukex&theme=monokai">
+</a>
+<a href="https://github.com/dukex">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dukex&theme=monokai">
+</a>
 
 #### Take a look this repositories
 
