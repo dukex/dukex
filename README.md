@@ -23,10 +23,10 @@ Whaaat?
 
 #### Take a look this repositories
 
-| <a href="https://github.com/dukex/mixpanel"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dukex&repo=mixpanel&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/dukex/expect.cr"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dukex&repo=expect.cr&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/dukex/api-hub"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dukex&repo=api-hub&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/dukex/expect.cr"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dukex&repo=expect.cr&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-| <a href="https://github.com/dukex/uap-lua"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dukex&repo=uap-lua&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/dukex/gcmex"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dukex&repo=gcmex&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/dukex/uap-lua"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dukex&repo=uap-lua&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/dukex/operion"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dukex&repo=operion&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br />
